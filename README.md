@@ -1,7 +1,7 @@
 # take-a-break
 Sends a windows 10 notification every 20 minutes this program is running prompting you to look away a distance for 20-ish seconds.
 
-# HOW DO I USE THIS?
+# Usage
 Install python 3.10 on your computer. The easiest way is to type ``python`` in your command prompt, which will open up the Windows 10 store if asked to.
 Download the py file.
 
